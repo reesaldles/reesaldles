@@ -1,5 +1,7 @@
 👾 13-year-old developer with skills in **Python**, **C#**, **HTML**, **CSS**, and **JavaScript**.
+
 🎮 Focused on cheat development, creating effective bypasses.
+
 💬 Regular contributor to tech forums.
 
 
