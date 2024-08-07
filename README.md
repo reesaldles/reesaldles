@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm [reesaldle]! 👋
 
 ## About Me
